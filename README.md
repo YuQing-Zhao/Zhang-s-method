@@ -4,4 +4,5 @@
 实现平台VS2015+OpenCV。
 
 主要包含：CameraCalibration.cpp可直接导入项目中运行。
-        left.zip用于标定的图像。
+        left.zip用于标定的图像，需要导入项目工程中。
+        calibdata.txt存放用于标定的图像路径，需要导入项目工程中。
