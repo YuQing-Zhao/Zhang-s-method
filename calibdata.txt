@@ -1,0 +1,14 @@
+../left/left01.jpg
+../left/left02.jpg
+../left/left03.jpg
+../left/left04.jpg
+../left/left05.jpg
+../left/left06.jpg
+../left/left07.jpg
+../left/left08.jpg
+../left/left09.jpg
+../left/left10.jpg
+../left/left11.jpg
+../left/left12.jpg
+../left/left13.jpg
+../left/left14.jpg
